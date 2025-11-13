@@ -18,7 +18,7 @@
      - `ZEPP_USER`：你的 Zepp 账号（手机号如 `138xxxxxxxx` 或邮箱）。
      - `ZEPP_PWD`：你的 Zepp 密码。
      - `AES_KEY`：16 字节的 AES 加密密钥（自定义，例如 `xeNtBVqzDc6tuNTh`）。
-     - `SCKEY`：Server酱推送密钥（可选，如果需要推送）。
+     - `SCKEY`：Server酱推送密钥（可选，如果需要推送请关注wx服务号`方糖`）。
 3. **启用 Actions**：仓库 Settings > Actions > General > Workflow permissions > Read and write permissions > Save。
 4. **运行 Workflow**：
    - 手动触发：Actions > 刷步数 > Run workflow。
